@@ -1,0 +1,19 @@
+@import '../base/variables';
+
+*{
+    font-family: 'Museo San Cyrl', sans-serif;
+}
+
+.container {
+    max-width: 940px;
+    margin: 0 auto;
+}
+
+@import 'promo.scss';
+@import 'header.scss';
+@import 'buttons.scss';
+@import 'advantage.scss';
+@import 'title.scss';
+@import 'consultation.scss';
+@import 'forms.scss';
+@import 'carousel';
